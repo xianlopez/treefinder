@@ -1,0 +1,5 @@
+Data
+*.tar.gz
+*.pyc
+*__pychache__
+WebServer/uploads
